@@ -1,3 +1,6 @@
+<h1 align="center">Hola 👋, soy Williams Fuentes Cortes</h1>
+<h3 align="center">Interesado en todo el espectro frontend y trabajos en proyectos ambiciosos con personas positivas.</h3>
+
 <!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
 
 ```shell
@@ -63,3 +66,9 @@ My objective is to be able to share and motivate people who feel a strong concer
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=veroMoreno&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/williams-fuentes-cortes-43838a213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/williams-fuentes-cortes-43838a213/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/wizrex777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/wizrex777/" height="30" width="40" /></a>
+</p>
