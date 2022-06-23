@@ -60,9 +60,9 @@
 
 
 ### <a href="https://www.instagram.com/william.s_rex/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Williams" height="30" width="40" /></a>  <a href="https://www.instagram.com/william.s_rex/" target="_blank">Williams</a>
-My objective is to be able to share and motivate people who feel a strong concern for development, programming and the technology sector. I have always been able to transmit good feelings when communicating with others and I am always willing to help, that is why I enjoy providing the necessary information to all those interested in technology.
+Mi objetivo es poder compartir y motivar a las personas que sienten una fuerte inquietud por el desarrollo, la programación y el sector tecnológico. Siempre he sabido transmitir buenos sentimientos al comunicarme con los demás y siempre estoy dispuesto a ayudar, por eso disfruto brindando la información necesaria a todos aquellos interesados en la tecnología.
 
-### 🌱 I'm currently learning... / Last Projects
+### 🌱 Actualmente estoy aprendiendo... / Últimos Proyectos
 
 - Salesforce 
 - Flutter/Dart
