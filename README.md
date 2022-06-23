@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Williams Fuentes Cortes</h1>
+<h1 align="center">Hola 👨🏻‍💻, soy Williams Fuentes Cortes</h1>
 <h3 align="center">Interesado en todo el espectro frontend y trabajar en proyectos ambiciosos con personas positivas.</h3>
 
 <!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
