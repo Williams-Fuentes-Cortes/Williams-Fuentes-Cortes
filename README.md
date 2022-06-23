@@ -9,7 +9,7 @@
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/williams-fuentes-cortes-43838a213/", 
-      "Resume"   : "https://veromoreno.github.io/",
+      "Resume"   : "https://williams-fuentes-cortes.github.io/",
       "IG"       : "https://www.instagram.com/william.s_rex/"
      }
  }
